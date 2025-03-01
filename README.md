@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @idiftech2010
+- 👋 Hi, I’m Idris Olanrewaju Ibraheem
 - 👀 I’m interested in Cloud Computing Security
-- 🌱 I’m currently learning AWS and Data Analytics 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Scaling my experience for Machine Learning and Artificial Intelligence
+- 💞️ I’m looking to collaborate on Threat Detection and Mitigation using Machine Learning
 - 📫 How to reach me, idiftech2010@yahoo.com, +2348125191913
 
 <!---
